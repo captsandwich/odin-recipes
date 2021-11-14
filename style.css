@@ -1,0 +1,18 @@
+
+*{
+    background-color: aquamarine;
+}
+
+#titlePage {
+text-align: center;
+}
+h1 {
+    font-size: 80px;
+    color: red;
+    font-weight: bold;
+}
+
+.list{
+    font-size: 25px;
+}
+
